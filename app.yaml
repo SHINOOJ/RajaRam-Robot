@@ -1,0 +1,13 @@
+
+SERVER_URL: http://rajaram-env.us-west-2.elasticbeanstalk.com/api
+LOCAL_SERVER_URL: http://127.0.0.1:8000//api
+PAGE_ACCESS_TOKEN: EAACD8xUCDysBAIrjBZCiHpKnEZCNqJSYZCFlyZBunZCGcKuXvTHdZBeHqiRvr75fi5eZBfSqQjiV9OmtiZCE2gcF8WbuU8O9ad6ZBCTKY2b0MZA4vTiTyjGDFiZB6i5felF1zuTBDEgp9mKrhp8TjDkmHnOBzAXgjiIkOmZBl4zKVQbjZAXEPvc5Gdw1s
+API_AI_CLIENT_ACCESS_TOKEN: d32c7d87be4547e58a505fc4d00008eb
+WIT_AI_KEY: I3OU3E4DUBMW5JVZVQWUIDVFTVMIU7IS
+S3_BUCKET: elasticbeanstalk-us-east-2-887713891000
+FIREBASE:
+  apiKey: AIzaSyBWGPaqA3b6xmAKgE-nazqRTwoI-ty_sRM
+  authDomain: rajaram-firebase.appspot.com
+  databaseURL: https://rajaram-firebase.firebaseio.com
+  storageBucket: rajaram-firebase.appspot.com
+

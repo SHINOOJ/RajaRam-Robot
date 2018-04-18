@@ -1,0 +1,15 @@
+../data/lfw/Aaron_Eckhart/Aaron_Eckhart_0001.png 48 37 189 210
+../data/lfw/Aaron_Guiel/Aaron_Guiel_0001.png 40 37 187 221
+../data/lfw/Aaron_Patterson/Aaron_Patterson_0001.png 59 49 193 204
+../data/lfw/Aaron_Peirsol/Aaron_Peirsol_0002.png 51 45 186 211
+../data/lfw/Aaron_Peirsol/Aaron_Peirsol_0001.png 59 46 190 205
+../data/lfw/Aaron_Peirsol/Aaron_Peirsol_0003.png 61 49 184 197
+../data/lfw/Aaron_Peirsol/Aaron_Peirsol_0004.png 69 40 198 212
+../data/lfw/Aaron_Pena/Aaron_Pena_0001.png 56 38 205 219
+../data/lfw/Aaron_Sorkin/Aaron_Sorkin_0002.png 59 44 196 209
+../data/lfw/Aaron_Sorkin/Aaron_Sorkin_0001.png 44 46 183 213
+../data/lfw/Aaron_Tippin/Aaron_Tippin_0001.png 47 47 178 207
+../data/lfw/Abba_Eban/Abba_Eban_0001.png 49 38 188 211
+../data/lfw/suraj/2018-01-26-134838.png 619 280 862 571
+../data/lfw/suraj/2018-01-26-134830.png 624 295 865 587
+../data/lfw/suraj/2018-01-26-134848.png 678 266 909 543
